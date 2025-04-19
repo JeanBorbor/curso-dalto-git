@@ -1,4 +1,4 @@
-# curso-dalto-git
+#repositorio uno en el curso de git
 Práctica repo creado 
 
 ## descripción 
