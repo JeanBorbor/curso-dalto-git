@@ -1,2 +1,5 @@
 # curso-dalto-git
-Práctico repo creado en github
+Práctica repo creado 
+
+## descripción 
+Este es un repositorio creado para el curso de git y github de soy dalto 
